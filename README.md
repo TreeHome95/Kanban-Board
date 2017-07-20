@@ -6,7 +6,7 @@ This is for solo/team use to track productivity.
 
 To use just enter the correct information in the textboxes and press ok.
 Use the update button to check status of WIP tab.
-Can either left click to move forward or drag.
+Can either left click to move forward, right click to move back or click and drag freely.
 
 ![alt text](https://github.com/TreeHome95/Kanban-Board/blob/master/PreviewKanban.png)
 
